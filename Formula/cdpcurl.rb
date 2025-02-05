@@ -1,8 +1,8 @@
 class Cdpcurl < Formula
   desc "curl with CDP API key"
   homepage "https://github.com/coinbase/cdpcurl"
-  url "https://github.com/coinbase/cdpcurl/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "39abc98e3a0c3654d1c722fb069530ba67aee47d39e6760f2d1ad98c160e1c58"
+  url "https://github.com/coinbase/cdpcurl/archive/refs/tags/v0.0.4.tar.gz"
+  sha256 "33e3e6d1f87e82a0d3fde10a23652f56318c9a9b6368b332d3e6cd71d9973435"
   license "MIT"
 
   depends_on "go" => :build
